@@ -22,7 +22,7 @@ function generate(){
 
     const randomIndex = Math.floor(Math.random() * quotes.length);
     const quote = quotes[randomIndex];
-
+    document.getElementById('show-quote').innerHTML = quote;
 
     }
 

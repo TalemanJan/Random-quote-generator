@@ -18,6 +18,13 @@ let quotes=[
 ]
 
 
+function generate(){
+
+    const randomIndex = Math.floor(Math.random() * quotes.length);
+    const quote = quotes[randomIndex];
+
+
+    }
 
 
 

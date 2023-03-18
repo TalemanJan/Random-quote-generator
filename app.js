@@ -11,6 +11,9 @@ let quotes=[
 "“You only live once, but if you do it right, once is enough.”― Mae West",
 "“Be the change that you wish to see in the world.”― Mahatma Gandhi",
 "“In three words I can sum up everything I've learned about life: it goes on.”― Robert Frost",
+"“If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.”― J.K. Rowling",
+"“If you tell the truth, you don't have to remember anything.”― Mark Twain",
+"“A friend is someone who knows all about you and still loves you.”― Elbert Hubbard",
 
 ]
 

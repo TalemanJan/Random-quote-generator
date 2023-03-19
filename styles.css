@@ -1,0 +1,25 @@
+#show-quote {
+    font-size: 24px;
+    font-weight: bold;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: white;
+    margin-bottom: 20px;
+  }
+  
+  #generate {
+    font-size: 18px;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  #generate:hover {
+    background-color: #333;
+  }
+  
